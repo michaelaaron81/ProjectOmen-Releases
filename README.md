@@ -6,6 +6,8 @@ A desktop application for editing and managing RPR game data files.
 
 **[Download Latest Release](https://github.com/michaelaaron81/ProjectOmen-Releases/releases/latest)**
 
+Or download directly: **[Project Omen Setup 0.0.6.exe](https://github.com/michaelaaron81/ProjectOmen-Releases/raw/main/Project%20Omen%20Setup%200.0.6.exe)**
+
 ### Installation
 
 1. Download the setup.exe from the releases page
@@ -26,7 +28,7 @@ A desktop application for editing and managing RPR game data files.
 
 ## Release Notes
 
-### v0.0.1 (February 4, 2026)
+### v0.0.6 (February 4, 2026)
 
 **Character Sheet Enhancements:**
 - Added comprehensive perk selection system with detailed cards showing bonuses and costs
