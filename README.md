@@ -6,7 +6,7 @@ A desktop application for editing and managing RPR game data files.
 
 **[Download Latest Release](https://github.com/michaelaaron81/ProjectOmen-Releases/releases/latest)**
 
-Or download directly: **[Project Omen Setup 0.0.6.exe](https://github.com/michaelaaron81/ProjectOmen-Releases/raw/main/Project%20Omen%20Setup%200.0.6.exe)**
+Or download directly: **[Project Omen Setup 0.0.7.exe](https://github.com/michaelaaron81/ProjectOmen-Releases/raw/main/Project%20Omen%20Setup%200.0.7.exe)**
 
 ### Installation
 
@@ -27,6 +27,23 @@ Or download directly: **[Project Omen Setup 0.0.6.exe](https://github.com/michae
 - Offline-first design
 
 ## Release Notes
+
+### v0.0.7 (February 7, 2026)
+
+**Character Sheet Experience Improvements:**
+- Added independent zoom control for character sheet (Ctrl+scroll to zoom 0.5x-2.5x)
+- Zoom level is now persisted when closing/reopening the sheet
+- Chat panel can now be docked beside the sheet or floating/draggable anywhere
+- Docked chat sits as an independent 380px panel next to the sheet (not inside it)
+- Floating chat can be dragged by its title bar and resized from the bottom-right corner
+- Added "Chat" toggle button in sheet header to show/hide chat
+- Undock (↗) and Dock (☰) buttons to switch between modes
+- Removed dependency on chat layout settings - simpler dock/float model
+
+**Technical:**
+- Cleaned up chat layout logic for better maintainability
+- Fixed syntax errors in perk description parsing
+- Chat state persists across docked/floating modes
 
 ### v0.0.6 (February 4, 2026)
 
